@@ -2,14 +2,14 @@ Hi. I'm fastnlight. I like to code.
 
 ## Languages I know
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)
-[![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk)](https://www.java.com)
-[![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift)](https://www.swift.org)
-[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://www.python.org)
-[![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge&logo=lua)](https://www.lua.org)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)](https://www.python.org)
+[![Swift](https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift)](https://www.swift.org)
+[![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk)](https://www.java.com)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
+[![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge&logo=lua)](https://www.lua.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### Debatable languages
 
